@@ -7,7 +7,16 @@ At IBA Karachi
 </div>
 
 ## About Me
-A Tech Greek From Karachi, Interested In **Solving Problems** and **Learning New Skills** 
+A Tech Greek From Karachi, Interested In **Solving Problems** and **Learning New Skills**.  
+> Tech | Code | Collab
+```C
+// My Life
+While (!Dead){
+   Code();
+   Eat();
+   Sleep();
+}
+```
 
 ### Languages
 <div>
@@ -17,6 +26,7 @@ A Tech Greek From Karachi, Interested In **Solving Problems** and **Learning New
 </div>
 
 ### Tools And IDE
+Have Used Codeblocks, Visual Studio, Netbeams and Notepad++ :) .
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain-wordmark.svg" title="VS" alt="VS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="Hithub" alt="Hithub" width="40" height="40"/>&nbsp;
@@ -28,6 +38,7 @@ A Tech Greek From Karachi, Interested In **Solving Problems** and **Learning New
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=annasshaikh&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ### - :mailbox: Contact Me:
+Feel Free To Contact Me On The Following Platforms
 <div id="badges">
   <a href="https://www.linkedin.com/in/annasshaikh/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
