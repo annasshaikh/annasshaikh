@@ -35,6 +35,8 @@ Have Used Codeblocks, Visual Studio, Netbeams and Notepad++ :) .
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=annasshaikh)](https://git.io/streak-stats)  
 
+![](https://komarev.com/ghpvc/?username=annasshaikh)  
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=annasshaikh&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ### - :mailbox: Contact Me:
